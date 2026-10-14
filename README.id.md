@@ -15,18 +15,8 @@ dipakai Hermes persis kayak model API beneran — lengkap dengan tool calls.**
 
 ---
 
-<div align="center">
-
-## 🎁 BELUM PUNYA MUSE? KLAIM BONUS 1 MILIAR TOKEN
-
-### Kode referral: `IB4FJR`
-
-Tukarkan kode ini di Settings Muse **dalam 48 jam setelah bergabung** dan
-kita berdua mendapatkan **1 miliar token Muse**.
-
-**👉 [Baca tutorial klaim Muse — pakai VPN & tanpa VPN](docs/CLAIM-MUSE.id.md)**
-
-</div>
+> Belum punya akun Muse? Mulai dari
+> **[tutorial klaim Muse](docs/CLAIM-MUSE.id.md)** — jalur VPN dan tanpa VPN.
 
 ---
 
@@ -127,8 +117,7 @@ Jangan mulai pasang sebelum semua ini centang:
   (script yang bisa jalan tiap beberapa detik dan bisa membangunkan
   agent). Belum punya akun Muse? Ikuti
   [tutorial klaim Muse](docs/CLAIM-MUSE.id.md) — tersedia jalur VPN dan
-  tanpa VPN — lalu tukarkan kode referral **`IB4FJR`** dalam 48 jam untuk
-  bonus 1 miliar token
+  tanpa VPN.
 - [ ] **SSH dari tempat Muse ke VPS bisa**, pakai kunci (key), bukan
   password. Cara ngecek: perintah `ssh user@alamat-vps "echo halo"`
   berhasil dari mesin Muse
@@ -147,7 +136,7 @@ Biar kamu nggak takut sama foldernya — ini semua isinya dan gunanya:
 | `README.id.md` | Dokumen ini (yang lagi kamu baca) |
 | `docs/TUTORIAL.id.md` | **Tutorial lengkap Bahasa Indonesia, langkah demi langkah** — ini bacaan utama buat masang |
 | `docs/TUTORIAL.md` | Tutorial yang sama versi Bahasa Inggris |
-| `docs/CLAIM-MUSE.id.md` | **Tutorial klaim akun Muse pakai VPN & tanpa VPN**, lengkap dengan highlight kode referral `IB4FJR` |
+| `docs/CLAIM-MUSE.id.md` | **Tutorial klaim akun Muse pakai VPN & tanpa VPN** |
 | `docs/CLAIM-MUSE.md` | Tutorial klaim Muse yang sama versi Bahasa Inggris |
 | `docs/FASE1-SAFETY-SPEC.md` | Catatan rencana fase berikutnya (pekerja paralel, antrean lebih besar) + catatan keamanannya |
 | `bridge/bridge.py` | **Program bridge yang jalan sekarang (v5)** — tool calls, antrean maks 20, estimasi usage, pseudo-streaming berkeping |
@@ -201,7 +190,7 @@ kamu), ikuti tutorialnya. Ada 10 bagian, dari "kita mau bikin apa" sampai
 
 Belum punya akun Muse? Mulai dari
 **[tutorial klaim Muse](docs/CLAIM-MUSE.id.md)** dulu — ada jalur VPN
-dan tanpa VPN, plus kode referral **`IB4FJR`** yang di-highlight di sana.
+dan tanpa VPN.
 
 - 🇮🇩 **[docs/TUTORIAL.id.md](docs/TUTORIAL.id.md)** — Bahasa Indonesia,
   bahasa bayi, pemula pasti bisa
