@@ -3,27 +3,9 @@
 > 🇮🇩 Versi Bahasa Indonesia: [CLAIM-MUSE.id.md](CLAIM-MUSE.id.md)
 
 A short guide to joining **Muse** from outside the United States/Canada,
-redeeming the referral code, and then continuing to the muse-bridge setup.
+and then continuing to the muse-bridge setup.
 
 ---
-
-<div align="center">
-
-## 🎁 REFERRAL CODE: `IB4FJR`
-
-**Redeem it within 48 hours after joining and we both receive
-1 billion Muse tokens.**
-
-### 👉 [Join Muse here](https://muse.ai/join)
-
-**Code: `IB4FJR`**
-
-</div>
-
----
-
-> This is the referral code of this repository's author. Do not confuse it
-> with other people's codes you may see online.
 
 ## Before you start
 
@@ -41,13 +23,11 @@ Choose **one** of the two routes below.
 ## Route A — Use a US/Canada VPN
 
 1. Turn on the VPN and select a **United States** or **Canada** server.
-2. Keep the VPN connected during registration and code redemption.
+2. Keep the VPN connected during registration.
 3. Open **[https://muse.ai/join](https://muse.ai/join)**.
 4. Register a new Muse account as usual until you reach the Dashboard.
-5. Redeem the referral code using the steps in **How to redeem the code**
-   below.
-6. Make sure the page reports that the code was accepted. Merely opening a
-   link or typing the code does not prove a successful redemption.
+5. Make sure the page reports that the account was created. Merely opening
+   a link does not prove a successful registration.
 
 If the page still shows a regional restriction, try another US/Canada
 server and refresh the page.
@@ -65,39 +45,20 @@ on your own device.
    browser available there.
 4. Go to **[https://muse.ai/join](https://muse.ai/join)**.
 5. Register a new Muse account as usual until you reach the Dashboard.
-6. Redeem the referral code using the steps below.
 
 Airtap's availability and behavior can change. If this route no longer
 works, use Route A.
 
-## How to redeem the code
+## (Optional) Redeem a referral code
 
-Do this **within 48 hours after the Muse account is created**.
+If someone you trust gave you a referral code, redeem it **within
+48 hours after the Muse account is created**:
 
-### On the Muse website
+**On the Muse website:** Settings → General → Usage → Redeem invite code.
+**In the mobile app:** Settings → Redeem token.
 
-1. Open **Settings**.
-2. Go to **General → Usage → Redeem invite code**.
-3. Enter this code exactly:
-
-<div align="center">
-
-# `IB4FJR`
-
-</div>
-
-4. Click the confirmation button.
-5. Read the result on screen: accepted, invalid, already used, or outside
-   the redemption window.
-
-### In the mobile app
-
-1. Open **Settings** in the Muse app.
-2. Select **Redeem token**.
-3. Enter **`IB4FJR`** and confirm.
-
-> Redemption lives inside **Muse** Settings—not the phone's system
-> Settings and not WhatsApp or another messaging app.
+Read the result on screen: accepted, invalid, already used, or outside
+the redemption window. Do not retry endlessly.
 
 ## Troubleshooting
 
@@ -105,8 +66,7 @@ Do this **within 48 hours after the Muse account is created**.
 |---|---|
 | Still regionally blocked while using a VPN | Switch to another US/Canada server, confirm the VPN is still connected, then refresh |
 | Airtap does not open its browser/environment | Wait briefly and retry; if it still fails, use Route A |
-| Cannot find the code field | Check the path: website under **General → Usage**; mobile app under **Redeem token** |
-| Code is rejected | Read the result shown on screen. Do not retry endlessly; the code may be invalid, used, or past its 48-hour window |
+| Cannot find the redeem-code field | Check the path: website under **General → Usage**; mobile app under **Redeem token** |
 | More than 48 hours have passed | Referral redemption may no longer be available for that account. Muse's displayed result controls |
 
 ## After Muse is active, continue to muse-bridge
