@@ -3,27 +3,9 @@
 > 🇬🇧 English version: [CLAIM-MUSE.md](CLAIM-MUSE.md)
 
 Panduan singkat buat bergabung ke **Muse** dari luar Amerika Serikat/Kanada,
-lalu menukarkan kode referral sebelum lanjut memasang muse-bridge.
+sebelum lanjut memasang muse-bridge.
 
 ---
-
-<div align="center">
-
-## 🎁 KODE REFERRAL: `IB4FJR`
-
-**Tukarkan dalam 48 jam setelah bergabung dan kita berdua mendapatkan
-1 miliar token Muse.**
-
-### 👉 [Gabung Muse di sini](https://muse.ai/join)
-
-**Kode: `IB4FJR`**
-
-</div>
-
----
-
-> Kode di atas adalah kode referral penulis repo ini. Jangan tertukar
-> dengan kode orang lain yang mungkin kamu lihat di internet.
 
 ## Sebelum mulai
 
@@ -41,13 +23,11 @@ Pilih **salah satu** jalur di bawah ini.
 ## Jalur A — Pakai VPN US/Canada
 
 1. Nyalakan VPN, lalu pilih server **United States** atau **Canada**.
-2. Biarkan VPN tetap menyala selama pendaftaran dan penukaran kode.
+2. Biarkan VPN tetap menyala selama pendaftaran.
 3. Buka **[https://muse.ai/join](https://muse.ai/join)**.
 4. Daftar akun Muse baru seperti biasa sampai masuk ke Dashboard.
-5. Tukarkan kode referral dengan langkah di bagian **Cara menukarkan
-   kode** di bawah.
-6. Pastikan halaman menampilkan hasil bahwa kode diterima. Sekadar membuka
-   link atau memasukkan kode belum tentu berarti penukaran berhasil.
+5. Pastikan halaman menampilkan bahwa pendaftaran berhasil. Sekadar membuka
+   link belum tentu berarti pendaftaran berhasil.
 
 Kalau halaman masih menunjukkan batasan wilayah, coba server US/Canada
 lain, lalu refresh halaman.
@@ -65,39 +45,20 @@ di perangkatmu sendiri.
    yang tersedia di sana.
 4. Ketik **[https://muse.ai/join](https://muse.ai/join)**.
 5. Daftar akun Muse baru seperti biasa sampai masuk ke Dashboard.
-6. Tukarkan kode referral dengan langkah di bawah.
 
 Ketersediaan dan cara kerja Airtap bisa berubah. Kalau jalurnya sudah
 tidak bekerja, gunakan Jalur A.
 
-## Cara menukarkan kode
+## (Opsional) Menukarkan kode referral
 
-Lakukan ini **maksimal 48 jam setelah akun Muse dibuat**.
+Kalau ada orang yang kamu percaya memberimu kode referral, tukarkan
+**maksimal 48 jam setelah akun Muse dibuat**:
 
-### Kalau memakai website Muse
+**Di website Muse:** Settings → General → Usage → Redeem invite code.
+**Di aplikasi HP:** Settings → Redeem token.
 
-1. Buka **Settings**.
-2. Masuk ke **General → Usage → Redeem invite code**.
-3. Masukkan kode ini persis:
-
-<div align="center">
-
-# `IB4FJR`
-
-</div>
-
-4. Klik tombol konfirmasi.
-5. Baca hasil di layar: berhasil, tidak valid, sudah dipakai, atau jendela
-   penukaran sudah lewat.
-
-### Kalau memakai aplikasi HP
-
-1. Buka **Settings** di aplikasi Muse.
-2. Pilih **Redeem token**.
-3. Masukkan **`IB4FJR`**, lalu konfirmasi.
-
-> Menu penukaran adalah menu di dalam **Muse**, bukan Settings HP dan
-> bukan Settings WhatsApp/aplikasi lain.
+Baca hasil di layar: berhasil, tidak valid, sudah dipakai, atau jendela
+penukaran sudah lewat. Jangan coba berulang-ulang tanpa henti.
 
 ## Kalau ada masalah
 
