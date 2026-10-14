@@ -15,18 +15,8 @@ it exactly like a real API model — including tool calls.**
 
 ---
 
-<div align="center">
-
-## 🎁 DON'T HAVE MUSE YET? CLAIM A 1 BILLION TOKEN BONUS
-
-### Referral code: `IB4FJR`
-
-Redeem this code in Muse Settings **within 48 hours after joining** and
-we both receive **1 billion Muse tokens**.
-
-**👉 [Read the Muse claim guide — with a VPN & without one](docs/CLAIM-MUSE.md)**
-
-</div>
+> Don't have a Muse account yet? Start with the
+> **[Muse claim guide](docs/CLAIM-MUSE.md)** — VPN and no-VPN routes covered.
 
 ---
 
@@ -127,8 +117,7 @@ Do not start installing before all of these are ticked:
   **hooks** (a script that can run every few seconds and wake the agent).
   Don't have a Muse account yet? Follow the
   [Muse claim guide](docs/CLAIM-MUSE.md) — VPN and no-VPN routes are
-  included — and redeem referral code **`IB4FJR`** within 48 hours for
-  the 1 billion token bonus
+  included.
 - [ ] **SSH from the Muse machine to the VPS works**, with a key, not
   a password. How to check: `ssh user@your-vps-address "echo hello"`
   succeeds from the Muse machine
@@ -147,7 +136,7 @@ So the folders never scare you — here is everything and what it is for:
 | `README.id.md` | This document in Indonesian |
 | `docs/TUTORIAL.md` | **The complete step-by-step tutorial** — the main reading for installing |
 | `docs/TUTORIAL.id.md` | The same tutorial in Indonesian, in super-simple language |
-| `docs/CLAIM-MUSE.md` | **How to claim a Muse account with a VPN or without one**, including the highlighted `IB4FJR` referral code |
+| `docs/CLAIM-MUSE.md` | **How to claim a Muse account with a VPN or without one** |
 | `docs/CLAIM-MUSE.id.md` | The same Muse claim guide in Indonesian |
 | `docs/FASE1-SAFETY-SPEC.md` | Design/safety notes for the next phase (parallel workers, bigger queue) |
 | `bridge/bridge.py` | **The bridge program that runs today (v5)** — tool calls, queue cap 20, usage estimates, chunked pseudo-streaming |
@@ -201,7 +190,7 @@ building" to "when things break":
 
 No Muse account yet? Start with the
 **[Muse claim guide](docs/CLAIM-MUSE.md)** — it covers VPN and no-VPN
-routes and highlights referral code **`IB4FJR`**.
+routes.
 
 - 🇬🇧 **[docs/TUTORIAL.md](docs/TUTORIAL.md)** — plain English, beginner-proof
 - 🇮🇩 **[docs/TUTORIAL.id.md](docs/TUTORIAL.id.md)** — Indonesian version, super-simple language
